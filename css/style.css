@@ -30,7 +30,7 @@ about-content-box-inner {
 #about-bg-diagonal {
     width: 60%;
     height: 60%;
-    background-image: url(../images\ \(18\).jpeg);
+    background-image: url(../images/images\ \(18\).jpeg);
     border-left: 200px solid #fff;
     border-top: 700px solid transparent;
     float: right;
@@ -471,7 +471,7 @@ p {
 
 /* ========= Counter ============= */
 .counter {
-    background-image: url("../images\ \(18\).jpeg");
+    background-image: url("../images/images\ \(18\).jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
